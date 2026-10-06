@@ -1,5 +1,5 @@
 <h1>Olá! 👋 Eu sou Gabriel</h1>
-💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
+💻 Desenvolvedor em formação 
 
 Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.
 
@@ -8,7 +8,7 @@ Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir c
 CSS<br>
 JavaScript<br>
 Git & GitHub<br>
-figma</P>
+Figma</P>
 
 <h2>📚 Atualmente estudando</h2>
 <p>Desenvolvimento Web<br>
