@@ -7,10 +7,13 @@ Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir c
 <p></p>HTML<br>
 CSS<br>
 JavaScript<br>
-Git & GitHub</P>
+Git & GitHub<br>
+figma</P>
 
 <h2>📚 Atualmente estudando</h2>
 <p>Desenvolvimento Web<br>
 JavaScript<br>
 Git e GitHub<br>
-Boas práticas de programação</p>
+Boas práticas de programação<br>
+Java<br>
+Banco de dados</p>
