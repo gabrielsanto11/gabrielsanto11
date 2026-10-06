@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Olá! 👋 Eu sou Gabriel</h1>
+💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
 
-<!--
-**gabrielsanto11/gabrielsanto11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.
 
-Here are some ideas to get you started:
+<h2>🛠️ Tecnologias</h2>
+<p></p>HTML<br>
+CSS<br>
+JavaScript<br>
+Git & GitHub</P>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚 Atualmente estudando</h2>
+<p>Desenvolvimento Web<br>
+JavaScript<br>
+Git e GitHub<br>
+Boas práticas de programação</p>
